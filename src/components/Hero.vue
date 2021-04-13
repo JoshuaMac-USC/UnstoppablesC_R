@@ -7,7 +7,7 @@
       <h2>Car Rentals</h2>
       <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Officia magni atque nostrum cumque excepturi sint reiciendis magnam! Perspiciatis minus corporis quidem! Modi culpa saepe repudiandae deleniti cum perferendis excepturi. Enim.</p>
 
-      <a href="#" class="button hero__cta">
+      <a href="/rentnow" class="button hero__cta">
         <span>Rent Now</span>
      </a>
     </div>
